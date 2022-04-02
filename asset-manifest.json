@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RahulJaysawal/React-Text-Edit/static/css/main.e6c13ad2.css",
-    "main.js": "/RahulJaysawal/React-Text-Edit/static/js/main.05d0d33a.js",
-    "static/js/787.28cb0dcd.chunk.js": "/RahulJaysawal/React-Text-Edit/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/RahulJaysawal/React-Text-Edit/index.html",
-    "main.e6c13ad2.css.map": "/RahulJaysawal/React-Text-Edit/static/css/main.e6c13ad2.css.map",
-    "main.05d0d33a.js.map": "/RahulJaysawal/React-Text-Edit/static/js/main.05d0d33a.js.map",
-    "787.28cb0dcd.chunk.js.map": "/RahulJaysawal/React-Text-Edit/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/RahulJaysawal/React-Text-Edit/build/static/css/main.e6c13ad2.css",
+    "main.js": "/RahulJaysawal/React-Text-Edit/build/static/js/main.def3a1f0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/RahulJaysawal/React-Text-Edit/build/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/RahulJaysawal/React-Text-Edit/build/index.html",
+    "main.e6c13ad2.css.map": "/RahulJaysawal/React-Text-Edit/build/static/css/main.e6c13ad2.css.map",
+    "main.def3a1f0.js.map": "/RahulJaysawal/React-Text-Edit/build/static/js/main.def3a1f0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/RahulJaysawal/React-Text-Edit/build/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.05d0d33a.js"
+    "static/js/main.def3a1f0.js"
   ]
 }
